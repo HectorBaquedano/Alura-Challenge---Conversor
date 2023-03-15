@@ -1,6 +1,10 @@
 # Alura-Challenge---Conversor
 Proyecto del reto Alura, conversor de monedas y temperaturas
 
+
+https://user-images.githubusercontent.com/121276241/225182469-893f03d0-7ac4-46b8-92ee-c1cbdaaf939a.mp4
+
+
 Hola, mi nombre es Hector Baquedano, soy alumno del programa One de Oracle y Alura, Grupo 4, especialidad de Back End.
 Presento mi proyecto, el cual tiene la funcionalidad de convertir diferentes divisas a la moneda de mi pais Honduras y tambien es capaz de convertir diferentes temperaturas.
 Entre estas funcione se encuentran:
